@@ -38,7 +38,7 @@ variable "dbuser" {
 }   
 
 variable "dbpass" {
- dedefault = "admin123" 
+ default = "admin123" 
 }
 
 variable "dbname" {
